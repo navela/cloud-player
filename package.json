@@ -1,0 +1,35 @@
+{
+  "name": "cloud-player",
+  "version": "0.0.1",
+  "description": "cloud player is an easy to customize html5 JavaScript SoundCloud player",
+  "main": "js/cloud-player.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StevenIseki/cloud-player.git"
+  },
+  "author": "Steven Iseki",
+  "license": "MIT",
+  "homepage": "https://github.com/StevenIseki/cloud-player.git",
+  "devDependencies": {
+    "gulp": "*",
+    "connect": "*",
+    "connect-livereload": "*",
+    "gulp-livereload": "*",
+    "serve-static": "*",
+    "serve-index": "*",
+    "opn": "*",
+    "gulp-react": "*",
+    "react": "*",
+    "browserify": "*",
+    "watchify": "*",
+    "vinyl-source-stream": "*",
+    "mocha": "*"
+  },
+  "keywords": [
+    "SoundCloud",
+    "cloud",
+    "audio player",
+    "browserify",
+    "cloud player"
+  ]
+}
